@@ -10,4 +10,3 @@ I'm a software engineer passionate about leveraging artificial intelligence in i
 - [Personal Website](https://josephmilla.com/)
 - [LinkedIn](https://www.linkedin.com/in/josephmilla/)
 - [Github](https://github.com/josephmilla)
-- [Twitter](https://twitter.com/josephmilla)
