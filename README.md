@@ -1,7 +1,5 @@
 # :wave: Joseph Milla
 
-@josephmilla
-
 ```
 $ echo "Hello, I'm Joseph!"
 ```
