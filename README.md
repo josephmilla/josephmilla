@@ -9,4 +9,4 @@ I'm a software engineer passionate about leveraging artificial intelligence in i
 #### Links
 - :wave: [Personal Website](https://josephmilla.com/)
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/josephmilla/)
-- :baby_chick: [Twitter](https://twitter.com/josephmilla)
+- :bird: [Twitter](https://twitter.com/josephmilla)
