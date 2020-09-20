@@ -1,4 +1,4 @@
-# :wave: Joseph Milla
+## :wave: Joseph Milla
 
 ```
 $ echo "Hello, I'm Joseph!"
